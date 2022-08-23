@@ -6,7 +6,7 @@ from web3 import Web3
 
 '''
     Gui class: [all the tkinter entry and buttons]
-'''
+'''  
 class Gui():
     def __init__(self):
         # window
